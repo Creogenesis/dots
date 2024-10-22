@@ -39,7 +39,7 @@
 
 # Hyprland 🍚<a name = "hypr"></a>:
 
-## [Late Night🌃](https://github.com/creogenesis/dots/tree/late-night)
+## [Late Night](https://github.com/creogenesis/dots/tree/late-night)
 
 ![](https://raw.githubusercontent.com/creogenesis/dots/late-night/ScreenShots/HyprLand/preview.png)
 
@@ -47,9 +47,9 @@
 
 # GNOME 🍙<a name = "gnome"></a>:
 
-![](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice1.png)
-![](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice2.png)
-![](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice3.png)
+![](https://raw.githubusercontent.com/creogenesis/dots/main/ScreenShots/Gnome_Rice/Rice1.png)
+![](https://raw.githubusercontent.com/creogenesis/dots/main/ScreenShots/Gnome_Rice/Rice2.png)
+![](https://raw.githubusercontent.com/creogenesis/dots/main/ScreenShots/Gnome_Rice/Rice3.png)
 
 <details><summary> Gnome configs </summary><blockquote>
 
