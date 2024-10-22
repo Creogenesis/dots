@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Profiles Pictures" src="https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Other/profiles.png" width="200" height="200"/>
+<img alt="Profiles Pictures" src="https://raw.githubusercontent.com/creogenesis/dots/main/ScreenShots/Other/logo-creogenesis-solid.png" width="300" height="300"/>
 </div>
 
 <div align="center">
