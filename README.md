@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h3> 1amSimp1e's Dot Files 📁</h3>
+    <h3> CREOGENESIS Dot Files 📁</h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=800&size=20&pause=1000&color=6791C9&background=0C0E0F&center=true&vCenter=true&random=false&width=435&lines=The+Place+Of+Aesthetic+Customization"
 </div>
     
@@ -19,11 +19,11 @@
 
 </div>
 
-# Contents 📚:
+# Контент 📚:
 
 ### **👻 Don't blindly use my setup. Use at your own risk!!!**
 
-### Overview 🎑
+### Обзор 🎑
 
 - [🌿 Windows Manager]():
   - [🍚 HyprLand](#hypr)
@@ -42,13 +42,6 @@
 ## [Late Night🌃](https://github.com/creogenesis/dots/tree/late-night)
 
 ![](https://raw.githubusercontent.com/creogenesis/dots/late-night/ScreenShots/HyprLand/preview.png)
-
-## Credits
-
-Thanks to:
-
-- [r/unixporn community](https://www.reddit.com/r/unixporn/)
-- [Hyprland Development Discord server](https://discord.com/invite/hQ9XvMUjjr)
 
 </blockquote></details>
 
