@@ -7,14 +7,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=800&size=20&pause=1000&color=6791C9&background=0C0E0F&center=true&vCenter=true&random=false&width=435&lines=The+Place+Of+Aesthetic+Customization"
 </div>
     
-![](https://img.shields.io/github/last-commit/iamverysimp1e/dots?&style=for-the-badge&color=8D748C&logoColor=D9E0EE&labelColor=252733)
-![](https://img.shields.io/github/stars/iamverysimp1e/dots?style=for-the-badge&logo=starship&color=AB6C6A&logoColor=D9E0EE&labelColor=252733)
-[![](https://img.shields.io/github/repo-size/iamverysimp1e/dots?color=%23DDB&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=252733)](https://github.com/1amSimp1e/dots)
-<a href="https://github.com/iamverysimp1e/dots/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/iamverysimp1e/dots?style=for-the-badge&logo=starship&color=A1C999&logoColor=D9E0EE&labelColor=252733" />
+![](https://img.shields.io/github/last-commit/creogenesis/dots?&style=for-the-badge&color=8D748C&logoColor=D9E0EE&labelColor=252733)
+![](https://img.shields.io/github/stars/creogenesis/dots?style=for-the-badge&logo=starship&color=AB6C6A&logoColor=D9E0EE&labelColor=252733)
+[![](https://img.shields.io/github/repo-size/creogenesis/dots?color=%23DDB&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=252733)](https://github.com/1amSimp1e/dots)
+<a href="https://github.com/creogenesis/dots/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/creogenesis/dots?style=for-the-badge&logo=starship&color=A1C999&logoColor=D9E0EE&labelColor=252733" />
 </a>
-<a href="https://github.com/iamverysimp1e/dots/issues">
-<img alt="Issues" src="https://img.shields.io/github/issues/iamverysimp1e/dots?style=for-the-badge&logo=bilibili&color=5E81AC&logoColor=D9E0EE&labelColor=252733" />
+<a href="https://github.com/creogenesis/dots/issues">
+<img alt="Issues" src="https://img.shields.io/github/issues/creogenesis/dots?style=for-the-badge&logo=bilibili&color=5E81AC&logoColor=D9E0EE&labelColor=252733" />
 </a>
 
 </div>
@@ -39,15 +39,9 @@
 
 # Hyprland 🍚<a name = "hypr"></a>:
 
-## [Late Night🌃](https://github.com/1amSimp1e/dots/tree/late-night-%F0%9F%8C%83)
+## [Late Night🌃](https://github.com/creogenesis/dots/tree/late-night)
 
-![](https://raw.githubusercontent.com/iamverysimp1e/dots/late-night-%F0%9F%8C%83/ScreenShots/HyprLand/preview.png)
-
-## [Balcony🚊](https://github.com/1amSimp1e/dots/tree/balcony%F0%9F%9A%8A)
-![](https://raw.githubusercontent.com/1amSimp1e/dots/balcony%F0%9F%9A%8A/ScreenShots/HyprLand/Rice.png)
-
-## [Summer☀️ ](https://github.com/1amSimp1e/dots/tree/summer%E2%98%80%EF%B8%8F)
-![](https://raw.githubusercontent.com/1amSimp1e/dots/summer%E2%98%80%EF%B8%8F/ScreenShots/summer.png)
+![](https://raw.githubusercontent.com/creogenesis/dots/late-night/ScreenShots/HyprLand/preview.png)
 
 ## Credits
 
@@ -104,4 +98,4 @@ Thanks to:
     </blockquote></details>
   </blockquote></details>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=1amSimp1e/dots&type=Date)](https://star-history.com/#1amSimp1e/dots&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=creogenesis/dots&type=Date)](https://star-history.com/#creogenesis/dots&Date)
