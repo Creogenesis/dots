@@ -1,10 +1,10 @@
 <div align="center">
-    <h1>Late Night 🌃</h1>
+    <h1>Late Night</h1>
 </div>
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/iamverysimp1e/dots/late-night-%F0%9F%8C%83/ScreenShots/HyprLand/preview.png)
+![](https://raw.githubusercontent.com/creogenesis/dots/late-night/ScreenShots/HyprLand/preview.png)
 
 </div>
 
@@ -59,7 +59,7 @@ fc-cache -fv
 ## Copy Files 💾
 
 ```
-git clone -b late-night-🌃 https://github.com/iamverysimp1e/dots
+git clone -b late-night https://github.com/creogenesis/dots
 cd dots
 cp -r ./configs/* ~/.config/
 ```
